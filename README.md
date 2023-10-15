@@ -3,6 +3,10 @@ Sebastian Martinez
 
 ![image](https://github.com/sbeae/Receso/assets/130028710/700d616c-751f-4af9-bd73-e3dc5e453ac0)
 
+# Analisis previo.
+
+Se necesitaria una clase principal para poder llevar a cabo lo fundamental del problema que es ingresar las variables y mostrar por consola, luego otras clases que contengan la informacion que se necesita para poder realizar el problema.
+
 
 # Explicacion de clases.
 
